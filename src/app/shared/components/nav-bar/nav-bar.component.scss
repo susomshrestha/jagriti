@@ -1,6 +1,8 @@
-@import '../../../../styles.scss';
+@import "../../../../styles.scss";
 
 .nav-bar {
-    background: $blue;
-    color: white;
+  .navbar {
+    background: $blue !important;
+    color: white !important;
+  }
 }
